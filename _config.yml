@@ -9,10 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hazem Elbaz / Cybersecurity With AI"
+title                    : "Hazem Elbaz / CyberSecurity with AI and LLM Researcher"
+subtitle                 : "The Journy of a CyberSecurity with AI and LLM Researcher - Hazem Elbaz"
 title_separator          : "-"
 name                     : &name "Hazem Elbaz"
-description              : &description "I share my journy and experts in Cybersecurity With AI"
+description              : &description "Here I share my journey and experinces as a CyberSecurity with AI and LLM Researcher, including my research, projects, and insights into the field. Join me in exploring the intersection of cybersecurity and artificial intelligence, and discover how LLMs are shaping the future of security."
 url                      : https://elbazhazem.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elbazhazem/elbazhazem.github.io"
@@ -25,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Hazem Elbaz"
   pronouns         : # example: "she/her"  
-  bio              : "My journy in Cybersecurity With AI"
+  bio              : "CyberSecurity with AI and LLM Researcher"
   location         : "Earth"
   employer         : "Alaqsa University"
-  uri              : # URL
+  uri              : "https://www.alaqsa.edu.ps/ar/home/faculty/engineering-and-information-technology/faculty-members/engineering-faculty-members/engineering-faculty-members/hazem-elbaz.html"
   email            : "hazem_baz@alaqsa.edu.ps" 
 
   # Academic websites
@@ -60,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : hazem-elbaz-9b7aa628
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
