@@ -1,6 +1,6 @@
 ---
 title: 'Blog Post Test by Hazem'
-date: 2015-08-14
+date: 2025-06-11
 permalink: /posts/2025/06/blog-post-testByhazem/
 tags:
   - cool posts
