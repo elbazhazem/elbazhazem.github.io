@@ -22,7 +22,7 @@ repository               : "elbazhazem/elbazhazem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Hazem Elbaz" # Name of the author
   pronouns         :  #"he/him"  
   bio              : "CyberSecurity with AI and LLM Researcher""
