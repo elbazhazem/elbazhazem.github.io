@@ -2,7 +2,7 @@
 title: "S.O.S. Booklet for Global Young Scholars"
 subtitle: "Facing the Scientific and Ethical Challenges of the Modern Age"
 collection: publications
-category: Book
+category: book
 permalink: /publication/SOS-Booklet-for-GYS
 excerpt: 'In a framework of a workshop, the networks are fairly
 quickly established, nodes are fast identified and bonds secured.
