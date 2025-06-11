@@ -30,7 +30,7 @@ Here’s how I’m transitioning from cybersecurity to AI:
 ### **Phase 1: AI *for* Cybersecurity** — *(now)*  
 Building tools that use LLMs and ML models to analyze, summarize, and detect anomalies in security logs.
 
-- ✅ **Project:** [Log Insight AI](https://github.com/elbazhazem/log-insight-ai)  
+- ✅ **Project:** [Log Analyzer LLM](https://github.com/elbazhazem/log-analyzer-LLM.git) 
   *Using LLMs to summarize and interpret security log files — helping analysts focus on threats, faster.*
 
 - 🔧 **Project (in progress):** [Log Anomaly Detection](https://github.com/elbazhazem/log-anomaly-detection)  
