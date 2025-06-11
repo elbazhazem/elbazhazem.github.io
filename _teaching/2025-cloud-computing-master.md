@@ -4,7 +4,7 @@ collection: teaching
 type: "graduate course"
 permalink: /teaching/2025-cloud-computing-master
 venue: "Alaqsa University, CPS - Cyber Pysical System"
-date: 2014-01-01
+date: 2025-05-10
 location: "Gaza, Palestine"
 ---
 
