@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/2025-cloud-computing-master
 venue: "Alaqsa University, CPS - Cyber Pysical System"
 date: 2025-05-10
