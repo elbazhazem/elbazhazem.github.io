@@ -8,7 +8,7 @@ excerpt: 'In this paper, we clarify Hierarchical Identity
 Based Authentication Key Agreement (HIB-AKA) protocol, providing
 lightweight key management approach for cloud computing users. Then, we
 analyze the security properties of HIB-AKA protocol.'
-date: 2014-14-26
+date: 2014-04-26
 venue: 'International Journal of Cloud Computing and Services Science (IJ-CLOSER)'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://d1wqtxts1xzle7.cloudfront.net/80833140/12930-libre.pdf?1644870257=&response-content-disposition=inline%3B+filename%3DAnalysis_and_Verification_of_a_Key_Agree.pdf&Expires=1749648805&Signature=d8xgpbWXHaXHAnQ2M3K5PzvYmf8Jiez2DBmqeV7bCEDRFbPKz6Qz1K5UfutGht4tn3cwFEmbdlAjpzQlG6KYk1PB5sCIKekYJ7upUEhyATBwuWF2JhQ8gLPYJn1TSab6gDcToQ2ZYDyMNqgPmvNPb4v1NcAa9aGhlTr6-GqJ79VT0~G4XBODVgnuknC57azmtvlMxTyCcLnnjdCnlEMbbZ7xgc-cxYXENxVKyCeQnHebut7qtzVgez4wzEXNNkNmXX2~Sa0-TuAMhnWK5QBAevydjABPYegFm2JsEJSKgqIaJAuiwKlXfO0G6qRSxJ41JH6mKLKxw9zAMqjBTXJy0w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
