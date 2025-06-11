@@ -8,6 +8,8 @@ date: 2025-05-10
 location: "Gaza, Palestine"
 ---
 
+**This course provides an in-depth exploration of cloud computing concepts, technologies, and practical applications for graduate students.**
+
 ## Course Aims
 
 This Course introduces students to the core principles of Cloud Computing. Key topics include virtualization, data centre architectures, cloud resource management, storage solutions, and widely used cloud-based applications such as batch and stream processing. The course emphasizes the underlying backend technologies essential for building and operating efficient cloud environments, as well as how applications leverage cloud platforms to deliver computing on demand. Practical tutorials will provide hands-on experience with cloud infrastructure tools. Assessment will be based on a cloud-based coursework project.
