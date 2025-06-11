@@ -2,7 +2,7 @@
 title: "Control Methods for Mitigating Critical Cloud Computing Issues in Banking Organizations: A review"
 collection: publications
 category: manuscripts
-permalink: /publication/Analysis-and-Verification-of-Key-Agreement-Protocol
+permalink: /publication/Control-methods-for-mitigating-critical-cloud-comuting
 excerpt: 'The goal of this research is to examine techniques and solutions for addressing major cloud concerns in financial institutions.'
 date: 2022-06-01
 venue: 'The Journal of Natural Sciences'
