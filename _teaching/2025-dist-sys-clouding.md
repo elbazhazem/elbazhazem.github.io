@@ -8,9 +8,10 @@ date: 2025-05-10
 location: "Gaza, Palestine"
 ---
 
+**This course introduces students to the fundamentals and practical aspects of distributed systems and cloud computing.**
 
 
-# COURSE DESCRIPTION AND SYLLABUS:
+## COURSE DESCRIPTION AND SYLLABUS:
 
 This course will cover main aspects of cloud computing which include: Computing Paradigm, Introduction to Cloud Computing, Cloud Computing Architecture, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Platform as a Service (PaaS), Service Management in Cloud Computing, Cloud Security, finally it will introduce a Case Study on Open Source & Commercial Clouds. 
 
