@@ -18,7 +18,3 @@ Heading 2
 
 Heading 3
 ======
-
-> computer networks, # here the course describtion
-> mobile security
-> cloud computing
