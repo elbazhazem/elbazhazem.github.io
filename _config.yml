@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "HOME"}
   - {file: "README.md", title: "ABOUT"}
   - {file: "UNLICENSE.txt", title: "PROJECTS"}
-  - {file: "404.html", title: "BLOGS"}
+  - {file: "blogs.md", title: "BLOGS"}
   - {file: "archive.html", title: "PUBLICATIONS"}
 
 
