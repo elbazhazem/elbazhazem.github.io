@@ -1,7 +1,15 @@
 ---
-layout: page
-title: "Home"
+layout: default
+title: "Hazem Elbaz"
+description: "Cybersecurity ↔ AI Research"
 ---
+
+<img src="/assets/images/hero-banner.webp" alt="Hazem Elbaz Banner" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px; margin-bottom: 2rem;" />
+
+# 👋 Welcome
+I'm Hazem Elbaz, transitioning from cybersecurity to applied AI.  
+Explore my journey through [Projects](./projects), [Blogs](./blogs), and [About](./about).
+
 # From Cybersecurity to AI: My Transition Journey
 
 I'm Hazem Elbaz — a cybersecurity researcher and educator from Gaza, now rebuilding my career after surviving war and loss.
