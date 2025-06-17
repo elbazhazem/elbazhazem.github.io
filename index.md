@@ -4,7 +4,7 @@ title: "Hazem Elbaz"
 description: "Cybersecurity ↔ AI Research"
 ---
 
-<img src="/assets/images/hero-banner.webp" alt="Hazem Elbaz Banner" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px; margin-bottom: 2rem;" />
+<img src="/assets/banner.png" alt="Hazem Elbaz Banner" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px; margin-bottom: 2rem;" />
 
 # 👋 Welcome
 I'm Hazem Elbaz, transitioning from cybersecurity to applied AI.  
