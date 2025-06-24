@@ -3,6 +3,7 @@ title: "My Roadmap: From Cybersecurity to Applied AI"
 description: "An honest roadmap for how I’m transitioning into AI from a cybersecurity background — step-by-step."
 date: 2025-06-19
 tags: [learning, transition, ai-roadmap, cyber-to-ai, career]
+layout: post
 ---
 
 # My Roadmap: From Cybersecurity to Applied AI
