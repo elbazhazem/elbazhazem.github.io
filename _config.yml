@@ -19,7 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "HOME"}
   - {file: "about.md", title: "ABOUT"}
   - {file: "projects.md", title: "PROJECTS"}
-  - {file: "blogs.md", title: "BLOGS"}
+  # - {file: "blogs.md", title: "BLOGS"}
+  - {file: "archive.html", title: "BLOGS"}
   - {file: "publications.md", title: "PUBLICATIONS"}
 
 
