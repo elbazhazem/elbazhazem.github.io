@@ -3,6 +3,7 @@ title: "Why Cybersecurity Needs AI More Than Ever"
 description: "Cybersecurity is drowning in noise, complexity, and fatigue — here’s how AI can help."
 date: 2025-06-18
 tags: [cybersecurity, SOC, AI, automation, burnout]
+layout: post
 ---
 
 # Why Cybersecurity Needs AI More Than Ever
