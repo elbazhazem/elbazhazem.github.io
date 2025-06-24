@@ -5,6 +5,8 @@ date: 2025-06-16
 tags: [cybersecurity, LLM, log-analysis, SIEM, AI]
 ---
 
+A personal reflection on why I moved from traditional log analysis tools to LLM-powered log insight engines.
+
 # From SIEMs to LLMs: Why I’m Building AI Tools for Cybersecurity
 
 For years, I worked with SIEM platforms, firewalls, EDRs, and an endless stream of logs.
