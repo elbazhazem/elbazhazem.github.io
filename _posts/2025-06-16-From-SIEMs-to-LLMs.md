@@ -7,7 +7,7 @@ tags: [cybersecurity, LLM, log-analysis, SIEM, AI]
 
 A personal reflection on why I moved from traditional log analysis tools to LLM-powered log insight engines.
 
-# From SIEMs to LLMs: Why I’m Building AI Tools for Cybersecurity
+## From SIEMs to LLMs: Why I’m Building AI Tools for Cybersecurity
 
 For years, I worked with SIEM platforms, firewalls, EDRs, and an endless stream of logs.
 
@@ -22,7 +22,7 @@ At some point, I asked myself:
 
 ---
 
-## The Limits of Traditional SIEMs
+### The Limits of Traditional SIEMs
 
 Traditional SIEMs are excellent at:
 - Collecting and indexing data
@@ -37,7 +37,7 @@ That’s where **Large Language Models (LLMs)** come in.
 
 ---
 
-## Why LLMs?
+### Why LLMs?
 
 LLMs, like GPT-4, bring something new to the table:
 
@@ -50,7 +50,7 @@ It’s not magic — it’s structured prompting, validation, and iteration.
 
 ---
 
-## My First Attempt: Log Insight AI
+### My First Attempt: Log Insight AI
 
 That’s why I built my first prototype:  
 **[Log Insight AI](https://github.com/elbazhazem/log-insight-ai)**
@@ -66,7 +66,7 @@ It’s still early, but the potential is clear:
 
 ---
 
-## What’s Next?
+### What’s Next?
 
 - Automating anomaly detection with AI
 - Combining clustering + LLMs
