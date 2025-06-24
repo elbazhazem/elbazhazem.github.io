@@ -8,7 +8,7 @@ layout: post
 
 # Lessons from Building My First Log Analyzer with GPT-4
 
-When I started building [Log Insight AI](https://github.com/elbazhazem/log-insight-ai), I had one goal:
+When I started building [Log Analyzer LLM](https://github.com/elbazhazem/log-analyzer-LLM), I had one goal:
 
 > "Make logs readable, fast."
 
@@ -85,5 +85,5 @@ Building with GPT-4 taught me one thing:
 If you're in cybersecurity, you should start experimenting.
 
 ---
-🧠 Repo: [Log Insight AI](https://github.com/elbazhazem/log-insight-ai)  
+🧠 Repo: [Log Analyzer LLM](https://github.com/elbazhazem/log-analyzer-LLM)  
 💬 DM me if you’re building something similar — let’s connect.
