@@ -51,10 +51,10 @@ It’s not magic — it’s structured prompting, validation, and iteration.
 
 ---
 
-### My First Attempt: Log Insight AI
+### My First Attempt: Log Analyzer LLM
 
 That’s why I built my first prototype:  
-**[Log Insight AI](https://github.com/elbazhazem/log-insight-ai)**
+**[Log Analyzer with LLM](https://github.com/elbazhazem/log-analyzer-LLM)**
 
 It:
 - Reads raw `.log` files
