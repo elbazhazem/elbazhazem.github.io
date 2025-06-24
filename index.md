@@ -6,7 +6,7 @@ description: "Cybersecurity ↔ AI Research"
 
 # 👋 Welcome
 I'm Hazem Elbaz, transitioning from cybersecurity to applied AI.  
-Explore my journey through [Projects](./projects), [Blogs](./blogs), and [About](./about).
+Explore my journey through [Projects](./projects), [Blogs](archive.html), and [About](./about).
 
 # From Cybersecurity to AI: My Transition Journey
 
