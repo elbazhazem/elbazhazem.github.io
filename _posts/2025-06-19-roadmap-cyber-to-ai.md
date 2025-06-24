@@ -37,7 +37,7 @@ I focused on:
 
 ## 🔬 Step 3: Build Something Small, Fast
 
-→ [Log Insight AI](https://github.com/elbazhazem/log-insight-ai)  
+→ [Log Analyzer LLM](https://github.com/elbazhazem/log-analyzer-LLM)  
 This was my MVP to apply what I learned.
 
 ---
