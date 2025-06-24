@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Hazem Elbaz"
 description: "Cybersecurity ↔ AI Research"
 ---
