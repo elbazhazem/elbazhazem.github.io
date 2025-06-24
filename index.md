@@ -3,6 +3,8 @@ layout: page
 title: "Hazem Elbaz"
 description: "Cybersecurity ↔ AI Research"
 ---
+
+
 <!--
 <img src="/assets/banner.png" alt="Hazem Elbaz Banner" 
 style="width: 100%; 
