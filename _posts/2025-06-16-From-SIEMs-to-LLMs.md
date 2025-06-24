@@ -3,6 +3,7 @@ title: "From SIEMs to LLMs: Why I’m Building AI Tools for Cybersecurity"
 description: "A personal reflection on why I moved from traditional log analysis tools to LLM-powered log insight engines."
 date: 2025-06-16
 tags: [cybersecurity, LLM, log-analysis, SIEM, AI]
+layout: post
 ---
 
 A personal reflection on why I moved from traditional log analysis tools to LLM-powered log insight engines.
