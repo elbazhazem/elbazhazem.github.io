@@ -3,6 +3,7 @@ title: "Lessons from Building My First Log Analyzer with GPT-4"
 description: "Behind the scenes of building a log summarizer using LLMs — what worked, what didn’t, and what's next."
 date: 2025-06-17
 tags: [LLM, cybersecurity, log-analysis, GPT-4, openai]
+layout: post
 ---
 
 # Lessons from Building My First Log Analyzer with GPT-4
