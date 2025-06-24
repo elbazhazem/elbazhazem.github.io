@@ -72,5 +72,5 @@ The future analyst is part human, part machine.
 
 ---
 
-🤖 I’m exploring this space deeply in my own projects — see [Log Insight AI](https://github.com/elbazhazem/log-insight-ai)  
+🤖 I’m exploring this space deeply in my own projects — see [Log Analyzer LLM](https://github.com/elbazhazem/log-analyzer-LLM)  
 🔁 Let’s co-build the next-gen SOC tools.
