@@ -26,4 +26,4 @@ Gaza → Transitioning toward remote and academic/industry roles globally
 
 - GitHub: [@elbazhazem](https://github.com/elbazhazem)  
 - LinkedIn: [Hazem Elbaz](https://www.linkedin.com/in/hazem-elbaz/)  
-- Email: hazemelbaz [at] gmail [dot] com
+- Email: hazem_baz [at] alaqsa [dot] edu [dot] ps
