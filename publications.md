@@ -6,6 +6,8 @@ title: "Publications"
 This section lists my academic and technical publications, particularly as I bridge cybersecurity and AI.
 
 ## 📝 Research In Progress
+- **Advancing Network Intrusion Detection with the LycoS-Unicas-IDS 2018 Dataset: Tackling Imbalanced Big Data with Machine Learning**  
+  (Draft in progress — will be submitted to a peer-reviewed journal in 2025)
 - **Identifying Anomalous Network Traffic Through Clustering and Classification Methods: DoS Attacks as a Case Study**  
   (Draft in progress — will be submitted to a peer-reviewed journal in 2025)
 
