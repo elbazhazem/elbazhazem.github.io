@@ -15,7 +15,7 @@ This page highlights selected graduate and undergraduate research projects super
 **By:** Hassan Younis  
 **Supervised By:** Dr. Zahir Haddad, Dr. Hazem El-baz  
 **Institution:** Al-Aqsa University, Gaza, Palestine  
-**Term:** fall 2025  
+**Term:** Fall 2025  
 
 **Description:**  
 This research focused on enhanced and implementing a secure communication model for Wireless Sensor Networks (WSNs) in smart irrigation systems. The work began with a thorough analysis of security challenges specific to agricultural WSNs, followed by the design of a system architecture that integrates lightweight encryption and authentication protocols suitable for low-power sensor nodes. The effectiveness of the proposed model was demonstrated through a smart irrigation case study, where sensor data—such as soil moisture and temperature—is securely transmitted to a cloud-based platform for analysis and decision-making. This secure communication ensures the confidentiality and integrity of data, addressing key vulnerabilities in WSN deployments.
