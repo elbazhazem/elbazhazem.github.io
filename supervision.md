@@ -25,8 +25,7 @@ This research focused on enhanced and implementing a secure communication model 
 ## 🎓 Undergraduate Project
 
 ### Bachelor Graduation Project  
-**Title: Advancing Network Intrusion Detection with the LycoS-Unicas-IDS 2018 Dataset:**  
-**Tackling Imbalanced Big Data with Machine Learning**  
+**Title: Advancing Network Intrusion Detection with the LycoS-Unicas-IDS 2018 Dataset:Tackling Imbalanced Big Data with Machine Learning**  
 **By:** Besan Ayman Abu Zubaida  
 **Supervised By:** Dr. Hazem El-baz  
 **Institution:** Al-Aqsa University – Faculty of Computer and Information Technology  
