@@ -11,7 +11,7 @@ This page highlights selected graduate and undergraduate research projects super
 ## 🎓 Graduate Project
 
 ### Master's Thesis  
-**Title: Improve Security over the Wireless Sensor Networks: Case Study – Smart Irrigation in the Agricultural Sector**  
+**[Title: Improve Security over the Wireless Sensor Networks: Case Study – Smart Irrigation in the Agricultural Sector](https://github.com/elbazhazem/secure-wsn-agriculture)**  
 **By:** Hassan Younis  
 **Supervised By:** Dr. Zahir Haddad, Dr. Hazem El-baz  
 **Institution:** Al-Aqsa University, Gaza, Palestine  
