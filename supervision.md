@@ -25,6 +25,16 @@ This research focused on enhanced and implementing a secure communication model 
 ## 🎓 Undergraduate Project
 
 ### Bachelor Graduation Project  
+**Title: [Internship Management System for University Students](https://github.com/IbrahemMohammedSaidAhmed/training_system)**  
+**By:** Ibrahim M. Sayed Ahmed  
+**Supervised By:** Dr. Hazem El-baz  
+**Institution:** Al-Aqsa University – Faculty of Computer and Information Technology  
+**Program:** Bachelor of Networks and Mobile Technology  
+**Term:** April 2025 
+
+**Description:**  
+Internship Management System for University Students is a web-based platform developed to digitize and streamline the internship process for universities. Built using Laravel (PHP), MySQL, HTML, CSS, and JavaScript, the system enables students to register, submit reports, and receive evaluations online. Academic supervisors and host companies can track progress, provide feedback, and manage assessments in real time. The project improves communication, reduces paperwork, and offers data analytics for better decision-making. It was developed as a bachelor graduation project at Al-Aqsa University under the supervision of Dr. Hazem Abdel-Qader El-Baz.
+
 **Title: [Advancing Network Intrusion Detection with the LycoS-Unicas-IDS 2018 Dataset:Tackling Imbalanced Big Data with Machine Learning](https://github.com/elbazhazem/NIDs-ML)**  
 **By:** Besan Ayman Abu Zubaida  
 **Supervised By:** Dr. Hazem El-baz  
@@ -33,7 +43,7 @@ This research focused on enhanced and implementing a secure communication model 
 **Term:** Spring 2024  
 
 **Description:**  
-his project focuses on developing an Intrusion Detection System (IDS) utilizing machine learning techniques. The goal is to classify network traffic as either benign or other malicious types, leveraging the **LycoS-Unicas-IDS2018 dataset**, which addresses limitations in earlier IDS datasets. The project integrates advanced data preprocessing, feature engineering, and machine learning algorithms to achieve high accuracy and efficient detection rates.
+This project focuses on developing an Intrusion Detection System (IDS) utilizing machine learning techniques. The goal is to classify network traffic as either benign or other malicious types, leveraging the **LycoS-Unicas-IDS2018 dataset**, which addresses limitations in earlier IDS datasets. The project integrates advanced data preprocessing, feature engineering, and machine learning algorithms to achieve high accuracy and efficient detection rates.
 
 ---
 
