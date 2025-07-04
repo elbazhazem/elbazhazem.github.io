@@ -11,6 +11,16 @@ This page highlights selected graduate and undergraduate research projects super
 ## 🎓 Graduate Project
 
 ### Master's Thesis  
+**Title: Identifying Anomalous Network Traffic Through Clustering and Classification Methods: DoS Attacks as a Case Study**  
+**By:** Belal Eiad Shehada  
+**Supervised By:** Dr. Hazem El-baz  
+**Institution:** Al-Aqsa University, Gaza, Palestine  
+**Term:** under progress  
+
+**Description:**  
+The key challenge in detecting DoS attacks is distinguishing malicious traffic from legitimate traffic in real-time. Traditional security systems, such as firewalls or rule-based intrusion detection systems, struggle with detecting new or evolving DoS attack patterns. Thus, there is a need for more advanced techniques that can learn from network traffic data and identify unusual patterns indicative of an attack.
+
+
 **Title: [Improve Security over the Wireless Sensor Networks: Case Study – Smart Irrigation in the Agricultural Sector](https://github.com/elbazhazem/secure-wsn-agriculture)**  
 **By:** Hassan Younis  
 **Supervised By:** Dr. Zahir Haddad, Dr. Hazem El-baz  
