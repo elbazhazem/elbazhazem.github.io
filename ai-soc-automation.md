@@ -63,7 +63,7 @@ _A 6-week study exploring LLM-based triage versus traditional SOAR rules._
 
 ## ✍️ Blog Series
 
-- [From Alert Fatigue to Smart Triage: Behind LLM-SOC-Agent](https://elbazhazem.github.io/blog/2025-07-LLM-SOC-Agent-intro)
+- [From Alert Fatigue to Smart Triage: Behind LLM-SOC-Agent](2025-07-15-llm-soc-agent-intro.md)
 - Coming soon: “Building a SOC Dataset Pipeline”
 - Coming soon: “Evaluating MTTR Impact in Real Logs”
 
