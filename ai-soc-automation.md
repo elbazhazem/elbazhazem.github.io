@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven SOC Automation"
 description: "Research, projects, and public work documenting my specialization in LLM-driven security automation."
-date: 2025-07-14
+date: 2025-07-15
 permalink: /projects/ai-soc-automation/
 layout: page
 ---
