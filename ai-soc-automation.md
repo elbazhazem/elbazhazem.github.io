@@ -27,7 +27,7 @@ Modern SOCs face alert overload, analyst fatigue, and increasing attack complexi
 ### 🔸 [LLM-SOC-Agent](https://github.com/ai-soc-automation/LLM-SOC-Agent)  
 An intelligent SOC pipeline using DistilRoBERTa + LoRA for log enrichment, clustering, and alert contextualization.
 
-### 🔸 [Log Insight AI](https://github.com/elbazhazem/log-insight-ai)  
+### 🔸 [Log Analyzer LLM](https://github.com/elbazhazem/log-analyzer-LLM)
 Exploration of log summarization using pretrained LLMs and prompting.
 
 ### 🔸 [Log Anomaly Detection](https://github.com/elbazhazem/log-anomaly-detection)  
@@ -57,7 +57,7 @@ _A 6-week study exploring LLM-based triage versus traditional SOAR rules._
 - 📝 Weekly LinkedIn content
 - 🧪 Study adversarial LLM robustness
 
-🔗 [See full roadmap](https://github.com/users/elbazhazem/projects)
+🔗 [See full roadmap](https://github.com/orgs/ai-soc-automation/projects/1)
 
 ---
 
@@ -81,6 +81,6 @@ _A 6-week study exploring LLM-based triage versus traditional SOAR rules._
 
 🌐 [GitHub Org: ai-soc-automation](https://github.com/ai-soc-automation)  
 🧠 [Research Blog](https://elbazhazem.github.io/blog/)  
-🔗 [LinkedIn Weekly Posts](https://www.linkedin.com/in/hazemelbaz)
+🔗 [LinkedIn Weekly Posts](https://www.linkedin.com/in/hazem-elbaz/recent-activity/all/)
 
 ---
