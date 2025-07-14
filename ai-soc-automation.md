@@ -69,7 +69,7 @@ _A 6-week study exploring LLM-based triage versus traditional SOAR rules._
 
 ---
 
-## Recent LinkedIn Posts
+## 🔗 Recent LinkedIn Posts
 
 * **[Title of LinkedIn Post 1]**
     [Brief description or snippet of the post.]
