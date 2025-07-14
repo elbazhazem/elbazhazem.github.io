@@ -5,11 +5,11 @@ title: "Projects"
 
 # My Active Projects
 
-### AI-Driven SOC Automation
+### 📂 AI-Driven SOC Automation
 - Goal: Research, projects, and public work documenting my specialization in LLM-driven security automation.
 - Details: [Visit the project page](ai-soc-automation.md)
-- Repo: [ai-soc-automation](https://github.com/ai-soc-automation
-  )
+- Repo: [ai-soc-automation](https://github.com/ai-soc-automation)
+
 ### 🔍 Log ِAnalyzer LLM
 - Goal: Analyze `.log` files using LLMs (ChatGPT/OpenAI APIs).
 - Repo: [log-analyzer-LLM](https://github.com/elbazhazem/log-analyzer-LLM)
