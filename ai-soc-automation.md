@@ -71,9 +71,9 @@ _A 6-week study exploring LLM-based triage versus traditional SOAR rules._
 
 ## 🔗 Recent LinkedIn Posts
 
-* **[Title of LinkedIn Post 1]**
-    [Brief description or snippet of the post.]
-    [Read on LinkedIn]([Link to your LinkedIn post 1])
+* **[From Cyber Defender to AI Innovator: My New Project is Live!]**
+My goal with this project is to explore and develop AI-powered solutions that can automate, optimize, and enhance various aspects of cybersecurity, from threat detection and incident response to vulnerability management.
+  [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351151186973982724/)
 
 * **[Title of LinkedIn Post 2]**
     [Brief description or snippet of the post.]
