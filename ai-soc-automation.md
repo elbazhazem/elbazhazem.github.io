@@ -64,7 +64,7 @@ _A 6-week study exploring LLM-based triage versus traditional SOAR rules._
 ## ✍️ Blog Series
 
 - [From Alert Fatigue to Smart Triage: Behind LLM-SOC-Agent](/_posts/2025-07-13-llm-soc-agent-intro.md)
-- Coming soon: “Building a SOC Dataset Pipeline”
+- [Unveiling LLM-SOC-Agent: Revolutionizing Security Operations with AI](/_posts/2025-07-19-unveiling-LLM-SOC-Agent.md)
 - Coming soon: “Evaluating MTTR Impact in Real Logs”
 
 ---
@@ -75,9 +75,9 @@ _A 6-week study exploring LLM-based triage versus traditional SOAR rules._
 My goal with this project is to explore and develop AI-powered solutions that can automate, optimize, and enhance various aspects of cybersecurity, from threat detection and incident response to vulnerability management.
   [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351151186973982724/)
 
-* **[Title of LinkedIn Post 2]**
-    [Brief description or snippet of the post.]
-    [Read on LinkedIn]([Link to your LinkedIn post 2])
+* **[Exciting News: Revolutionizing Security Operations with AI!]**
+    [We're building a multi-agent security framework designed to act as an AI-driven SOC analyst.]
+    [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7352251157131456512/)
   
 ---
 ## 🎙️ Talks & Media
