@@ -91,7 +91,7 @@ My goal with this project is to explore and develop AI-powered solutions that ca
 ## 👣 Follow the Journey
 
 🌐 [GitHub Org: ai-soc-automation](https://github.com/ai-soc-automation)  
-🧠 [Research Blog](blogs.md)  
+🧠 [Research Blog](/blogs.md)  
 🔗 [LinkedIn Weekly Posts](https://www.linkedin.com/in/hazem-elbaz/recent-activity/all/)
 
 ---
