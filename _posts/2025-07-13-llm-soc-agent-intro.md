@@ -1,7 +1,7 @@
 ---
 
 title: "From Alert Fatigue to Smart Triage: Building an LLM-Powered SOC Agent"
-date: 2025-07-01
+date: 2025-07-13
 tags: [LLM, SOC, Automation, Cybersecurity]
 description: "How we cut Mean‑Time‑To‑Respond by 30 % with a lightweight LLM pipeline."
 layout: post
