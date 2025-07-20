@@ -1,0 +1,3 @@
+[submodule "projects/ai-soc-automation/blog"]
+	path = projects/ai-soc-automation/blog
+	url = https://github.com/ai-soc-automation/blog-source.git
