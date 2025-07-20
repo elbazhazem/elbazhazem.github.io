@@ -80,6 +80,65 @@ My goal with this project is to explore and develop AI-powered solutions that ca
     [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7352251157131456512/)
   
 ---
+
+# 👥 AI-SOC Automation – Team Structure
+
+This document outlines the team organization, roles, and responsibilities for the AI-SOC Automation project.
+
+---
+
+## 🛡️ 1. AI Threat Intelligence Team
+
+| Name / Role             | Description                                                                 | Key Tasks                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Lead Threat Analyst     | Oversees threat research & taxonomy alignment                              | Build threat models, manage threat DB, publish intelligence reports       |
+| ML Threat Engineer      | Translates threats into ML-friendly formats                                | Encode attack patterns, simulate threats, design synthetic log generators |
+
+---
+
+## 🧠 2. AI Engineering Team
+
+| Name / Role             | Description                                                                 | Key Tasks                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| AI Lead Architect        | Designs AI pipelines and evaluation strategies                             | Define LLM tasks, model selection, pipeline integration                   |
+| Prompt Engineer          | Engineers and optimizes LLM prompts                                        | Design multi-step prompts, few-shot examples, test prompt behavior       |
+| Evaluation Lead          | Builds evaluation frameworks for LLM output                               | Design metrics, automated graders, evaluation reports                    |
+
+---
+
+## 🔧 3. System Engineering & Integration Team
+
+| Name / Role             | Description                                                                 | Key Tasks                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| DevOps Engineer         | Deploys and monitors system pipelines                                       | CI/CD setup, containerization, logging infrastructure                    |
+| Integration Developer   | Connects LLM pipeline with real-world SOC data                             | Build APIs, connectors for SIEM logs, API testing                        |
+
+---
+
+## 📊 4. Visualization & Reporting Team
+
+| Name / Role             | Description                                                                 | Key Tasks                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Data Analyst            | Designs and analyzes classification output                                 | Generate charts, analyze performance over time                          |
+| UI/UX Designer          | Designs dashboards or simple visual interfaces                             | Create interfaces for reviewing triaged logs                            |
+
+---
+
+## 📁 5. Documentation & Coordination Team
+
+| Name / Role             | Description                                                                 | Key Tasks                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Technical Writer        | Maintains project documentation, READMEs, tutorials                        | Write README, API docs, usage instructions                               |
+| Project Coordinator     | Tracks progress, team sync, and timeline adherence                         | Standups, manage GitHub issues, maintain roadmap                         |
+
+---
+
+### 📌 Notes
+
+- All members are expected to review and document their work via GitHub Issues and Pull Requests.
+- The team works in agile sprints. Biweekly syncs are scheduled via shared calendar.
+
+---
 ## 🎙️ Talks & Media
 
 🎤 Planning upcoming sessions on:
