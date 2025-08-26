@@ -8,7 +8,7 @@ description: "Cybersecurity ↔ AI Research"
 I'm Hazem Elbaz, transitioning from cybersecurity to applied AI.  
 Explore my journey through [Projects](./projects), [Blogs](archive.html), and [About](./about).
 
-# From Cybersecurity to AI: My Transition Journey <img align="right" hspace="50" width="200" alt="image" height="200" src="https://scontent.fgza2-3.fna.fbcdn.net/v/t1.6435-9/135001750_1687057341456922_4130400792077280800_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aEZ2zj8_ZbMQ7kNvwHAM-bC&_nc_oc=Adn2xSFSZwLLGGkQX7uPLsh5cuPev0TdWskF1Dl68FRwmSY5aCumvLlnkrJR-T6e6zk&_nc_zt=23&_nc_ht=scontent.fgza2-3.fna&_nc_gid=5HvIzTins-z-kJaenJTJkA&oh=00_AfUT7ncqpk80aGvM7SafrutY2HWDGngGG5eHy_xWGcVoUQ&oe=68D4F25C">
+# From Cybersecurity to AI: My Transition Journey <img align="right" hspace="50" width="400" alt="image" height="400" src="https://scontent.fgza2-3.fna.fbcdn.net/v/t1.6435-9/135001750_1687057341456922_4130400792077280800_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aEZ2zj8_ZbMQ7kNvwHAM-bC&_nc_oc=Adn2xSFSZwLLGGkQX7uPLsh5cuPev0TdWskF1Dl68FRwmSY5aCumvLlnkrJR-T6e6zk&_nc_zt=23&_nc_ht=scontent.fgza2-3.fna&_nc_gid=5HvIzTins-z-kJaenJTJkA&oh=00_AfUT7ncqpk80aGvM7SafrutY2HWDGngGG5eHy_xWGcVoUQ&oe=68D4F25C">
 
 I'm Hazem Elbaz — a cybersecurity researcher and educator from Gaza, now rebuilding my career after surviving war and loss.
 
