@@ -5,6 +5,11 @@ title: "Projects"
 
 # My Active Projects
 
+### 🧠 SOC Home Lab from Zero — Catching Real Attackers
+- Goal:It provides a step-by-step practical guide for cybersecurity learners, professionals, and educators who want to understand how real-world SOCs detect and analyze attacks.
+- Repo: [SOC-Home-Lab](https://github.com/elbazhazem/SOC-Home-Lab/tree/main)
+- Medium: [SOC Home Lab on Azure from Zero — Catching Real Attackers](https://medium.com/@hazem.baz/soc-home-lab-on-azure-from-zero-catching-real-attackers-6e377afee7aa)
+  
 ### 📂 AI-Driven SOC Automation
 - Goal: Research, projects, and public work documenting my specialization in LLM-driven security automation.
 - Details: [Visit the project page](ai-soc-automation.md)
