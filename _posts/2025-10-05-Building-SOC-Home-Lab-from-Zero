@@ -1,3 +1,4 @@
+---
 title: "Building a SOC Home Lab from Zero — Catching Real Attackers on Azure"
 date: 2025-10-05
 description: "A hands-on journey into building a functional Security Operations Center (SOC) using free Azure resources and Microsoft Sentinel — from honeypot setup to live attack visualization."
