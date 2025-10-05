@@ -143,14 +143,3 @@ Assistant Professor of Cybersecurity | SOC Automation Researcher | AI-SOC Founde
 [Website](https://elbazhazem.github.io) • [LinkedIn](https://www.linkedin.com/in/hazem-elbaz) • [GitHub](https://github.com/elbazhazem)
 
 ---
-
-*If this project inspired you, share it or tag me on LinkedIn — let’s keep building secure, intelligent systems together.*
-
-```
-
----
-
-Would you like me to:
-1. Create a **ready-to-upload Markdown file** (`soc-home-lab-post.md`) for your website’s `/archive/` directory, or  
-2. Adjust it to match your site’s **Jekyll theme layout** (with front-matter fields aligned to your current blog style)?
-```
