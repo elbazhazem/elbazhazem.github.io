@@ -132,7 +132,7 @@ All setup instructions, queries, and diagrams are available in the public reposi
 👉 [**GitHub: SOC Home Lab from Zero**](https://github.com/elbazhazem/SOC-Home-Lab-from-ZERO)
 
 For a detailed tutorial and reflections, read the Medium article:
-👉 [**Building a SOC Home Lab from Zero — Catching Real Attackers on Azure**](https://medium.com/@hazemelbaz/soc-home-lab-from-zero-catching-attackers) *(replace with your final post URL)*
+👉 [**Building a SOC Home Lab from Zero — Catching Real Attackers on Azure**](https://medium.com/@hazem.baz/soc-home-lab-on-azure-from-zero-catching-real-attackers-6e377afee7aa) *(replace with your final post URL)*
 
 ---
 
