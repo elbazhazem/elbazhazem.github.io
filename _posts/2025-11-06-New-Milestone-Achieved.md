@@ -1,8 +1,9 @@
 ---
-title: "Building a SOC Home Lab from Zero — Catching Real Attackers on Azure"
+title: "New Milestone Achieved"
 date: 2025-10-05
 description: "A hands-on journey into building a functional Security Operations Center (SOC) using free Azure resources and Microsoft Sentinel — from honeypot setup to live attack visualization."
-tags: ["Cybersecurity", "SOC", "Microsoft Sentinel", "Azure", "SIEM", "Practical Labs"]
+tags: ["ContinuousLearning","BusinessModelCanvas", "CyberSecurity", "Entrepreneurship", "ProfessionalGrowth", "Innovation", "StartupBuilding"]
+
 ---
 
 ✨ **New Milestone Achieved!**
