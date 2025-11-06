@@ -1,7 +1,7 @@
 ---
 title: "New Milestone Achieved"
-date: 2025-10-05
-description: "A hands-on journey into building a functional Security Operations Center (SOC) using free Azure resources and Microsoft Sentinel — from honeypot setup to live attack visualization."
+date: 2025-11-06
+description: "A short reflection on completing the Business Model Canvas course from Kennesaw State University on Coursera, highlighting the new strategic skills gained and how they support my AI-Driven SOC Automation journey."
 tags: ["ContinuousLearning","BusinessModelCanvas", "CyberSecurity", "Entrepreneurship", "ProfessionalGrowth", "Innovation", "StartupBuilding"]
 
 ---
