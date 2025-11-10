@@ -3,7 +3,7 @@ title: "Before You Build Detection… Make Sure You Have Collection"
 subtitle: "Why every SOC should prioritize telemetry and data collection before writing a single detection rule"
 description: "A deep dive into the critical role of data collection in SOC operations — why 'no collection, no detection' should guide your entire detection engineering process."
 tags: [CyberSecurity, SOC, SIEM, DetectionEngineering, ThreatDetection, MicrosoftSentinel, CloudSecurity]
-canonical_url: "https://medium.com/@hazemelbaz/before-you-build-detection-make-sure-you-have-collection"
+canonical_url: "https://medium.com/@hazem.baz/before-you-build-detection-make-sure-you-have-collection-f9522faf5de7"
 cover_image: "/assets/collection-vs-detection-banner.png"
 date: 2025-11-10
 author: "Hazem Elbaz"
