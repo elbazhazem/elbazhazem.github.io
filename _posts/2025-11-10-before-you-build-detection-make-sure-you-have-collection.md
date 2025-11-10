@@ -4,7 +4,7 @@ subtitle: "Why every SOC should prioritize telemetry and data collection before 
 description: "A deep dive into the critical role of data collection in SOC operations — why 'no collection, no detection' should guide your entire detection engineering process."
 tags: [CyberSecurity, SOC, SIEM, DetectionEngineering, ThreatDetection, MicrosoftSentinel, CloudSecurity]
 canonical_url: "https://medium.com/@hazemelbaz/before-you-build-detection-make-sure-you-have-collection"
-cover_image: "/images/collection-vs-detection-banner.png"
+cover_image: "/assets/collection-vs-detection-banner.png"
 date: 2025-11-10
 author: "Hazem Elbaz"
 ---
