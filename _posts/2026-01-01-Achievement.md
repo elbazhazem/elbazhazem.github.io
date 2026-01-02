@@ -1,5 +1,14 @@
+---
+layout: post
+title: "Academic and Professional Achievements – 2025"
+date: 2026-01-01
+author: "Dr. Hazem Abdul Qader Elbaz"
+categories: [Achievements, Academic, Cybersecurity]
+tags: [Cybersecurity, Research, SOC, LLMs, Anomaly Detection, Gaza, Academic Resilience]
+description: "A reflective academic and professional summary of 2025, focused on applied cybersecurity research, AI-driven SOC automation, and academic resilience under constrained conditions."
+---
+
 # Academic and Professional Achievements – 2025  
-**Dr. Hazem Abdul Qader Elbaz**
 
 As 2025 comes to a close, it is important to document a year marked by exceptional academic and professional commitment, unfolding within highly non-traditional and constrained circumstances. The year was shaped by severe humanitarian, institutional, and technical challenges resulting from the ongoing war and its direct impact on the academic and research environment in Gaza.
 
