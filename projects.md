@@ -5,6 +5,11 @@ title: "Projects"
 
 # My Active Projects
 
+### 🗺️ SOC 30 Days Roadmap
+- Goal:
+- Details:
+- Repo: [SOC_30_days_roadmap](https://github.com/elbazhazem/SOC_30_days_roadmap/tree/master)
+
 ### 🧠 SOC Home Lab from Zero — Catching Real Attackers
 - Goal: It provides a step-by-step practical guide for cybersecurity learners, professionals, and educators who want to understand how real-world SOCs detect and analyze attacks.
 - Repo: [SOC-Home-Lab](https://github.com/elbazhazem/SOC-Home-Lab/tree/main)
