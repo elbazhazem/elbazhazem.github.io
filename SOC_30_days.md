@@ -3,7 +3,7 @@
 
 
 
-| [Day 01](https://github.com/elbazhazem/SOC_30_days_roadmap/blob/master/Day01/day01.md)  | Day 02  | Day 03  | Day 04  |
+| [Day 01](./30_days/day01.md)  | Day 02  | Day 03  | Day 04  |
 |---------|---------|---------|---------|
 | Day 05  | Day 06  | Day 07  | Day 08  |
 | Day 09  | Day 10  | Day 11  | Day 12  |
