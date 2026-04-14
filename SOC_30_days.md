@@ -1,3 +1,7 @@
+---
+layout: page
+title: "SOC_30_days"
+---
 # Hello This my SOC 30 days roadmap
 
 
