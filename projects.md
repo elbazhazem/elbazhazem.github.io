@@ -7,7 +7,7 @@ title: "Projects"
 
 ### 🗺️ SOC 30 Days Roadmap
 - Goal:
-- Details:
+- Details: See Detail for all 30 Days day by day in this page [SOC 30 Days Roadmap](./SOC_30_days.md)
 - Repo: [SOC_30_days_roadmap](https://github.com/elbazhazem/SOC_30_days_roadmap/tree/master)
 
 ### 🧠 SOC Home Lab from Zero — Catching Real Attackers
